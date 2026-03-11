@@ -1,0 +1,5 @@
+{
+  "name": "Smart QR Attendance System",
+  "description": "A full-stack college attendance platform using dynamic QR codes, real-time validation, and anti-proxy security.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
